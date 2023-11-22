@@ -8,7 +8,7 @@ output: html_document
 
 Model the habitat suitability of *Tubastraea* spp. on the Brazilian coast, evaluating the potential risks of invasion in marine protected areas to support control and monitoring activities.
 
-For more information, visit <https://github.com/millenneohanna/material-suplementar-tcc.git>.
+For more information, visit <https://github.com/ufsclabar/sun_coral_modeling/>.
 
 ## 2. Loading packages
 
